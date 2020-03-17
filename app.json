@@ -75,7 +75,6 @@
   "addons": [
     "heroku-postgresql",
     "heroku-redis",
-    "bucketeer",
     "newrelic",
     "sentry"
   ],
