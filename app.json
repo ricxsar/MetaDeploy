@@ -1,7 +1,7 @@
 {
   "name": "MetaDeploy",
   "description": "Web-based tool for installing Salesforce products",
-  "repository": "https://github.com/SFDO-Tooling/MetaDeploy",
+  "repository": "https://github.com/ricxsar/MetaDeploy",
   "keywords": ["ci", "python", "django", "salesforce", "github"],
   "env": {
     "DJANGO_ALLOWED_HOSTS": {
@@ -66,7 +66,7 @@
       "quantity": 1
     },
     "scheduler": {
-      "quantity": 1
+      "quantity": 0
     },
     "devworker": {
       "quantity": 1
